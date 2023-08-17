@@ -5,3 +5,8 @@ table{
 th,td,tr{
 	border:1px solid black;
 }
+
+  caption {
+    caption-side: top;
+    font-weight: bold;
+  }
